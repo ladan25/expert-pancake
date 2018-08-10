@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1503190599-57599636b0a5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=dc0284239075b102e78ecdda14f8656e&auto=format&fit=crop&w=1101&q=80");
+}
+#p1 {
+    color:#FFFF82;
+    text-shadow: 3px 2px red;
+    font-size: 40px;
+    position: relative;
+    left: 440px;
+    top: 430px;
+}
+#p1:hover {
+    color:white;
+    font-size: 60px;
+ }
+#contact:hover {
+    color:#DC493A;
+   
+ }
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:orange;
+    color: red;
+    text-align: center;
+    font-size:30px;
+}
+
+h3:hover{
+  color:red;
+}
